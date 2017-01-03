@@ -1,0 +1,15 @@
+[submodule "tcs-packagea"]
+	path = tcs-packagea
+	url = https://github.com/capa1904/tcs-packagea.git
+[submodule "tcs-packageb"]
+	path = tcs-packageb
+	url = https://github.com/capa1904/tcs-packageb.git
+[submodule "tcs-packagec"]
+	path = tcs-packagec
+	url = https://github.com/capa1904/tcs-packagec.git
+[submodule "tcs-consoleapplication"]
+	path = tcs-consoleapplication
+	url = https://github.com/capa1904/tcs-consoleapplication.git
+[submodule "tcs-secondconsoleapplication"]
+	path = tcs-secondconsoleapplication
+	url = https://github.com/capa1904/tcs-secondconsoleapplication.git
